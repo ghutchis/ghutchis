@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Geoff Hutchison
-- I'm an Associate Professor at the [University of Pittsburgh](https://www.pitt.edu/)
+- I'm a Professor at the [University of Pittsburgh](https://www.pitt.edu/)
   - In the Department of Chemistry
   - Also in the Department of Chemical and Petroleum Engineering
 
@@ -20,6 +20,8 @@ This encompasses chemical synthesis, characterization (both physical and chemica
 Social Links:
 - [Twitter](https://twitter.com/ghutchis/)
 - <a rel="me" href="https://mastodon.social/@ghutchis">Mastodon</a>
+- [Threads](https://www.threads.net/@runninggeoff)
+- [Bluesky](https://bsky.app/profile/ghutchis.bsky.social)
 - [ORCID](https://orcid.org/0000-0002-1757-1980)
 - [Google Scholar](https://scholar.google.com/citations?user=2IsvEEYAAAAJ&hl=en)
 - [Chemistry Stack Exchange](https://chemistry.stackexchange.com/users/5017/geoff-hutchison)
