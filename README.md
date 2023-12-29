@@ -11,11 +11,15 @@ We develop new materials, as well as functional microscale and nanoscale devices
 We focus on building electronic materials from molecular subunits, both organic and inorganic, using a variety of techniques to rationally design the desired properties. 
 This encompasses chemical synthesis, characterization (both physical and chemical), combined with theoretical modeling and simulation.
 
-- ⚗️ Designer, co-creator, and lead developer of [Avogadro](https://avogadro.cc/)
+On GitHub, we publish raw science (Open Science), scripts, and chemistry tools
+
+- ⚗️ Designer, co-creator, and lead developer of [Avogadro](https://two.avogadro.cc/)
 - 🐡 Founder and lead developer of [Open Babel](https://openbabel.org/)
 - 🤝 Collaborations (science, code, or both!)
-- 🤔 I’m looking for help with Avogadro, particularly documentation and website writing
+- 🤔 I’m looking for [help with Avogadro](https://discuss.avogadro.cc/), particularly documentation and website writing
 - 😄 Pronouns: he/him
+
+![Geoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghutchis&show_icons=true)
 
 Social Links:
 - [Twitter](https://twitter.com/ghutchis/)
