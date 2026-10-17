@@ -2,13 +2,14 @@
 
 I'm Geoff Hutchison
 - I'm a Professor at the [University of Pittsburgh](https://www.pitt.edu/)
-  - In the Department of Chemistry
+  - In the [Department of Chemistry](https://www.chem.pitt.edu/)
   - Also in the Department of Chemical and Petroleum Engineering
 
 Our lab webpage: https://hutchisonlab.org/
 
 We develop new materials, as well as functional microscale and nanoscale devices. 
-We focus on building electronic materials from molecular subunits, both organic and inorganic, using a variety of techniques to rationally design the desired properties. 
+We focus on designing electronic materials from molecular subunits, both organic and inorganic, using a variety of techniques to rationally design the desired properties. 
+We have flexible, organic piezoelectric (electromechanical) materials.
 This encompasses chemical synthesis, characterization (both physical and chemical), combined with theoretical modeling and simulation.
 
 On GitHub, we publish raw science (Open Science), scripts, and chemistry tools
@@ -30,3 +31,6 @@ Social Links:
 - [Google Scholar](https://scholar.google.com/citations?user=2IsvEEYAAAAJ&hl=en)
 - [Chemistry Stack Exchange](https://chemistry.stackexchange.com/users/5017/geoff-hutchison)
 - [Matter Modeling SE](https://mattermodeling.stackexchange.com/users/30/geoff-hutchison)
+
+If you like my work, please:
+<a href="https://www.buymeacoffee.com/geoffhutchison" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
