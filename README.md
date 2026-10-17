@@ -23,10 +23,9 @@ On GitHub, we publish raw science (Open Science), scripts, and chemistry tools
 ![Geoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghutchis&show_icons=true)
 
 Social Links:
-- [Twitter](https://twitter.com/ghutchis/)
+- [Bluesky](https://bsky.app/profile/ghutchis.bsky.social)
 - <a rel="me" href="https://mastodon.social/@ghutchis">Mastodon</a>
 - [Threads](https://www.threads.net/@runninggeoff)
-- [Bluesky](https://bsky.app/profile/ghutchis.bsky.social)
 - [ORCID](https://orcid.org/0000-0002-1757-1980)
 - [Google Scholar](https://scholar.google.com/citations?user=2IsvEEYAAAAJ&hl=en)
 - [Chemistry Stack Exchange](https://chemistry.stackexchange.com/users/5017/geoff-hutchison)
